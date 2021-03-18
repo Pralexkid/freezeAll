@@ -1,0 +1,10 @@
+name: freezeAll
+version: 1.0
+api: 3.15.1
+main: Freeze\Main
+author: Pralexkid
+
+commands:
+  freezeall:
+    description: Freeze tout les joueurs du serveurs !
+    permission: freeze.all
